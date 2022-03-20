@@ -1,11 +1,11 @@
-instagram-giveaway-code
-Hello! This is the first tutorial that I made at my Youtube channel! With this code you can take all the comments of an instagram post and randomly select a winner! 🥳 Hope you enjoy it!
+ With this code you can take all the comments of an instagram post and randomly select a winner! 🥳 Hope you enjoy it!
 
 Start
 Installation
 First you have to install all the dependencies:
 
-npm i
+- npm i
+
 Environment variable
 Then you have to create a file with the name '.env' at the root folder of the project. Inside this file you have to create a variable with named INSTAGRAM_SESSION_ID.
 
